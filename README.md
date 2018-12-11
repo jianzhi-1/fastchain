@@ -1,7 +1,7 @@
 # SYPT 2017
 This git repository consists of my codes and theory for solving Fast Chain.
 
-###Problem Statement
+### Problem Statement
 
 6. Fast chain
 A chain consisting of wooden blocks inclined relative to the vertical and connected by two threads (see Figure) is suspended vertically and then released. 
@@ -10,11 +10,11 @@ Explain this phenomenon and investigate how the relevant parameters affect the m
 
 
 
-###Summary of Results
+### Summary of Results
 
 Can model
 
-###Challenges faced and future recommendations
+### Challenges faced and future recommendations
 There are two main challenges with regards to the experiment. It is difficult to drop the chain 
 in a way such that all the strings are initially straight but are not tense. A way to overcome this 
 will be to have magnetic rods which are held at specific positions in an electromagnetic field such that the 
