@@ -7,10 +7,16 @@ This git repository consists of my codes and theory for solving Fast Chain. The 
 A chain consisting of wooden blocks inclined relative to the vertical and connected by two threads (see Figure) is suspended vertically and then released. 
 Compared to free fall, the chain falls faster when it is dropped onto a horizontal surface. 
 Explain this phenomenon and investigate how the relevant parameters affect the motion.
+![Fast Chain image](https://github.com/jianzhi-1/fastchain/blob/master/fastchain.png)
 
 
+### Qualitative Explanation
 
-### Summary of Results
+![](https://github.com/jianzhi-1/fastchain/blob/master/phi = 60.gif)
+
+### Results
+
+
 
 Can model
 
