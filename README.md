@@ -12,7 +12,7 @@ Explain this phenomenon and investigate how the relevant parameters affect the m
 
 ### Qualitative Explanation
 
-![](https://github.com/jianzhi-1/fastchain/blob/master/phi = 60.gif)
+![](https://github.com/jianzhi-1/fastchain/blob/master/phi%20%3D%2060.gif)
 
 ### Results
 
