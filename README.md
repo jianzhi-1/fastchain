@@ -1,5 +1,5 @@
-# SYPT 2017
-This git repository consists of my codes and theory for solving Fast Chain.
+# SYPT 2017: Fast Chain
+This git repository consists of my codes and theory for solving Fast Chain. The project was done between Dec 2016 and Jan 2017.
 
 ### Problem Statement
 
